@@ -8,4 +8,4 @@
 **Владелец таких кланов как WN /  {CLNX TRXN} / TerraCota / SkyLine / Inspectors**
 **Viebani by Troxan : Lk, Atlasboy999, половина кма triada(3+звезды)**
 ``` javascript 
-let is Alive = true; do {code(); } while is Alive; function code(){alert('Viebani by Troxan : Lk, Atlasboy999, половина кма triada(3+звезды)')} ```
+let is Alive = true; do {code(); } while is Alive; function code(){alert('Viebani by Troxan : Lk, Atlasboy999, половина кма triada(3+звезды), avanguard')} ```
